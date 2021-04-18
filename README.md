@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Stroganov Kirill!
 
 <!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiraplenkin&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="kiraplenkin" /></p>
