@@ -5,10 +5,11 @@
 -->
 
 ## My GitHub Stats
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraplenkin&hide=jupyter%20notebook&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraplenkin&hide=contribs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraplenkin&hide=contribs&hide_title=true&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kiraplenkin/kiraplenkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
